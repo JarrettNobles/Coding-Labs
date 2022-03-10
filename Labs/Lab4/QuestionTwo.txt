@@ -1,0 +1,7 @@
+A. The difference between the size of array list and the capacity of an array list is that the size of the list is the number of elements in it. The capacity of the list is the number that the data structure can hold at the time
+
+B.Up to 500?
+
+C. ArrayLists arent fixed and can grow or shrink as needed. Elements can be inserted or deleted at any particular position
+
+D.Can be faster, ArrayList can only hold object types.

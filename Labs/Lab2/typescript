@@ -1,0 +1,15 @@
+Script started on Fri 28 Jan 2022 01:51:53 PM EST
+]0;nobles_jm@cobra:~/Labs/Lab2[?1034h[nobles_jm@cobra Lab2]$ java TestClock
+What time would you like to set your DVR to?
+
+Hours= 23
+Minutes= 59
+Seconds= 59
+
+The time is now
+Advancing the time:
+The time is now 00:00:00
+]0;nobles_jm@cobra:~/Labs/Lab2[nobles_jm@cobra Lab2]$ exit[K[K[K[Kjavac[K[K[K[K[Kexit
+exit
+
+Script done on Fri 28 Jan 2022 01:52:30 PM EST
